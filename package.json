@@ -1,0 +1,21 @@
+{
+  "name": "commentapp",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.2.0",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "jade": "~1.3.0",
+		"ejs": ">=0.0.1",
+    "stylus": "0.42.3",
+    "method-override": ">=0.0.1",
+    "express-session": ">=0.0.1",
+		"mongodb": ">0.0.1",
+		"mongoose": ">0.0.1",
+		"connect-mongo": ">0.0.1"
+  }
+}
